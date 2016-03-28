@@ -6,8 +6,8 @@ body {
 .content {
     width: 512px;
     height: 750px;
-    margin: auto;
-    padding-top: 54px;
+    margin: 5px 0 0 460px;
+    padding-top: 39px;
     background: #fff;
     box-shadow: 0 0 5px 1px  rgba(191, 191, 191, 1);
 }
@@ -17,19 +17,19 @@ h1 {
 }
 
 .box {
-    padding: 15px 63px 0;
-    font-size: 15px;
+    padding: 0 63px;
+    font-size: 17px;
 }
 
 .list {
     margin-left: 0;
-    padding-top: 35px;
+    padding-top: 20px;
     padding-left: 1em;
     line-height: 25px;
 }
 
 .dline {
-    padding-bottom: 39px;
+    padding-bottom: 9px;
 }
 
 .line {
